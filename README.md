@@ -5,6 +5,7 @@ The repository holds everything that involved with the deployment of my Azure Cl
 
 The files in this repository were used to configure the network depicted below.
 
+https://github.com/Caelandcyber/ElkStackProject1_repository-/blob/main/Diagrams/Peer%20NetworkRedTeam_Elk-Diagram%20Network.jpg?raw=true
 ElkStackProject1_repository-/Diagrams/Peer NetworkRedTeam_Elk-Diagram Network.jpg
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the 'playbook.yml' file may be used to install only certain pieces of it, such as Filebeat.
